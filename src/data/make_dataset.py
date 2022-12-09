@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Create a function to turn raw data into cleaned data
 import click
 import logging
 from pathlib import Path
